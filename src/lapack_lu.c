@@ -1,13 +1,3 @@
-/**
- * @file lapack_lu.c
- * author Yujia Zhai (yzhai015@ucr.edu)
- * @brief 
- * @version 0.1
- * @date 2019-10-07
- * 
- * @copyright Copyright (c) 2019
- * 
- */
 #include "../include/lu_functions.h"
 
 void lapack_lu(double *A, double *B, int n) 
