@@ -1,14 +1,3 @@
-/**
- * @file verification.c
- * author Yujia Zhai (yzhai015@ucr.edu)
- * @brief 
- * @version 0.1
- * @date 2019-10-07
- * 
- * @copyright Copyright (c) 2019
- * 
- */
-
 #include "../include/lu_test.h"
 #include "../include/util.h"
 #include "../include/lu_functions.h"
